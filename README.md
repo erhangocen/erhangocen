@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Web Applications
 - 🤔 I’m looking for help with Kodlama.io
 - 💬 Ask me about C#
-- 📫 How to reach me: zeupuladenivel@gmail.com  
+- 📫 How to reach me: erhangocenn@gmail.com
 - 😄 Pronouns: Erhan
 
 
