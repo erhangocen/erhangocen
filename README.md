@@ -46,6 +46,7 @@
    <img src ="https://banner2.cleanpng.com/20180920/fol/kisspng-windows-server-2-12-logo-organization-brand-windows-server-5ba39cd715d540.3534964615374491750894.jpg" width="40" height="40" />
    <img src ="https://www.ateamsystems.com/wp-content/uploads/2016/11/freebsd-logo.png" width="40" height="40" />
   <img src ="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/OS_Apple.png" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" />
   </p>
   
   ### Others
