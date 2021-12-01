@@ -7,7 +7,7 @@
 <br />
 
 <p float="left">
-  <img src="https://activity-graph.herokuapp.com/graph?username=fdeniz07&theme=react-dark" width="635" /> 
+  <img src="https://activity-graph.herokuapp.com/graph?username=deveross&theme=react-dark" width="635" /> 
 </p>
 
 
