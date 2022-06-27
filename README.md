@@ -65,7 +65,7 @@
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
 </p>
 
-<!--
+
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" />
@@ -89,4 +89,4 @@
 <img src="https://user-images.githubusercontent.com/59020581/117361255-7a14bd00-aec2-11eb-90e1-bb33b170f90e.png" alt="azureml" width="40" height="40"/>
 <img src="https://user-images.githubusercontent.com/59020581/117361667-02935d80-aec3-11eb-9186-23ca9ad4aaea.png" alt="watson studio" width="40" height="40"/>
 <img src="https://user-images.githubusercontent.com/59020581/117361856-39697380-aec3-11eb-8c94-963c752d06b7.png" alt="ıbmcognos" width="40" height="40"/> 
--->
+
