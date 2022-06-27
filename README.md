@@ -65,7 +65,7 @@
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
 </p>
 
-<p><h2>SERFİKİKALAR:</h2></p>
+<p><h2>CERTİFİCATES:</h2></p>
 <p>
   <img src="https://github.com/erhangocen/erhangocen/blob/main/CSS.png?raw=true" alt="unity" width="264" height="172"/>
   <img src="https://github.com/erhangocen/erhangocen/blob/main/JAVASCR%C4%B0PT.png?raw=true" alt="unity" width="265" height="172"/>
