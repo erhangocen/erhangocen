@@ -67,6 +67,6 @@
 
 <p><h2>SERFİKİKALAR:</h2></p>
 <p>
-  <img src="https://github.com/erhangocen/erhangocen/blob/main/CSS.png?raw=true" alt="unity" width="319" height="211"/>
-  <img src="https://github.com/erhangocen/erhangocen/blob/main/JAVASCR%C4%B0PT.png?raw=true" alt="unity" width="321" height="211"/>
+  <img src="https://github.com/erhangocen/erhangocen/blob/main/CSS.png?raw=true" alt="unity" width="240" height="157"/>
+  <img src="https://github.com/erhangocen/erhangocen/blob/main/JAVASCR%C4%B0PT.png?raw=true" alt="unity" width="241" height="157"/>
 </p>
