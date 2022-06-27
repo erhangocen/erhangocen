@@ -65,6 +65,6 @@
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
 </p>
 
-SERFİKİKALAR:
-<img src="https://github.com/erhangocen/erhangocen/blob/main/CSS.png?raw=true" alt="unity" width="100" height="100"/>
-<img src="https://github.com/erhangocen/erhangocen/blob/main/JAVASCR%C4%B0PT.png?raw=true" alt="unity" width="500" height="500"/>
+<p><h2>SERFİKİKALAR:</h2></p>
+<p><img src="https://github.com/erhangocen/erhangocen/blob/main/CSS.png?raw=true" alt="unity" width="638" height="423"/></p>
+<p><img src="https://github.com/erhangocen/erhangocen/blob/main/JAVASCR%C4%B0PT.png?raw=true" alt="unity" width="638" height="423"/></p>
