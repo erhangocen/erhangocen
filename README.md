@@ -1,11 +1,12 @@
 <div>
-<span>
-<a href="https://github.com/erhangocen/github-readme-stats"><img alt="Eren Birk Github Stats" src="https://github-readme-stats.vercel.app/api?username=erhangocen&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width="490" /></a>
-</span>
-<span>
-  <a href="https://github.com/erhangocen/github-readme-stats"><img alt="Eren Birk Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erhangocen&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-</span>
+
+<img alt="Eren Birk Github Stats" src="https://github-readme-stats.vercel.app/api?username=erhangocen&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width="490" />
+
+  <img alt="Eren Birk Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erhangocen&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+
 </div>
+
+<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Eren Birk streak" src="https://github-readme-streak-stats.herokuapp.com/?user=erhangocen&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
 <br/>
 <br />
 
