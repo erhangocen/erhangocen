@@ -13,7 +13,7 @@
 <br/>
 <br />
 
-<p float="left">
+<p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=erhangocen&theme=react-dark" width="635" /> 
 </p>
 
