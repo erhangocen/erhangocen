@@ -1,5 +1,9 @@
+<span>
 <a href="https://github.com/erhangocen/github-readme-stats"><img alt="Eren Birk Github Stats" src="https://github-readme-stats.vercel.app/api?username=erhangocen&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+</span>
+<span>
   <a href="https://github.com/erhangocen/github-readme-stats"><img alt="Eren Birk Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erhangocen&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+</span>
 
 <br />
 
