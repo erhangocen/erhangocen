@@ -57,7 +57,7 @@
   <img src="https://pbs.twimg.com/profile_images/1206618215767584769/zl48EuhC_400x400.jpg" width="40" height="40" />
   <img src="https://user-images.githubusercontent.com/59020581/117362577-18555280-aec4-11eb-94ef-401c9f28eb38.png" alt="visualcode" width="40" height="40"/>
 </p>
-
+ 
 <p><h2>CERTİFİCATES:</h2></p>
 <p>
 <img src="https://raw.githubusercontent.com/erhangocen/erhangocen/main/PYTHON.png" alt="unity" width="279" height="175"/>
