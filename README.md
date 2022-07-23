@@ -47,6 +47,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/de/thumb/8/8c/Microsoft_SQL_Server_Logo.svg/2000px-Microsoft_SQL_Server_Logo.svg.png" alt="sqlserver" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
  </p>
+ 
+ <img src="https://komarev.com/ghpvc/?username=Erenn19">
   
   ### Others
    <p align="left">
