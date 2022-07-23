@@ -17,7 +17,6 @@
   <img src="https://activity-graph.herokuapp.com/graph?username=erhangocen&theme=react-dark" width="635" /> 
 </p>
  
-
 ## My Utilities and Achievements
 
   ### Backend
