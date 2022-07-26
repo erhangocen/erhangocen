@@ -67,4 +67,4 @@
  
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-  <img src="https://activity-graph.herokuapp.com/graph?username=erhangocen"/>
+  <img src="https://github.com/erhangocen/github-readme-activity-graph"/>
