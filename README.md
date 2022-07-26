@@ -14,7 +14,7 @@
 <br/>  
              
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=erhangocen&theme=react-dark" width="635" /> 
+  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=erhangocen&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </p> 
      
 ## My Utilities and Achievements
