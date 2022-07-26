@@ -14,7 +14,7 @@
 <br/>  
              
 <p align="center">
-  
+  <img src="https://komarev.com/ghpvc/?username=erhangocen">
 </p> 
      
 ## My Utilities and Achievements
@@ -64,7 +64,4 @@
   <img src="https://github.com/erhangocen/erhangocen/blob/main/CSS.png?raw=true" alt="unity" width="279" height="175"/>
 </p>
  
- 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-  <img src="https://github.com/erhangocen/github-readme-activity-graph"/>
