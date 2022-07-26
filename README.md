@@ -14,7 +14,7 @@
 <br/>  
              
 <p align="center">
-  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=erhangocen&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
 </p> 
      
 ## My Utilities and Achievements
@@ -65,3 +65,4 @@
 </p>
  
  
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=erhangocen&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
