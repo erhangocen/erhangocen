@@ -1,14 +1,14 @@
    <div> 
    <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=erhangocen&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1115" width="54%" />  
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erhangocen&hide=css,html&layout=compact&langs_count=6&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width="44%"/>  
+    <img src="https://github-readme-stats.vercel.app/api?username=erhangocen&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1118" width="54%" />  
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erhangocen&hide=css,html&layout=compact&langs_count=6&count_private=true&theme=react&hide_border=true&bg_color=0D1118" width="44%"/>  
   </div> 
            
 </div>  
 <br/>
 <br/>
 <div align="center">
-<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Erhan Gocen streak" src="https://github-readme-streak-stats.herokuapp.com/?user=erhangocen&theme=black-ice&hide_border=true&stroke=0000&background=0D1117"/>
+<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Erhan Gocen streak" src="https://github-readme-streak-stats.herokuapp.com/?user=erhangocen&theme=black-ice&hide_border=true&stroke=0000&background=0D1118"/>
 </div>
 <br/>
 <br/>  
