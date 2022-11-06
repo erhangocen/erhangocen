@@ -1,7 +1,7 @@
    <div> 
    <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=erhangocen&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width="55%" />  
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erhangocen&hide=css,html&layout=compact&langs_count=6&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width="43%"/>  
+    <img src="https://github-readme-stats.vercel.app/api?username=erhangocen&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width="54%" />  
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erhangocen&hide=css,html&layout=compact&langs_count=6&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width="44%"/>  
   </div> 
            
 </div>  
