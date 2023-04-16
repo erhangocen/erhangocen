@@ -49,15 +49,20 @@
  
 <p><h2>CERTİFİCATES:</h2></p>
 <p>
+
+<img src="https://github.com/erhangocen/erhangocen/blob/main/Proje%20Y%C3%B6netimi%20Temelleri.png?raw=true" alt="unity" width="240" height="160"/>
+  
+  <img src="https://github.com/erhangocen/erhangocen/blob/main/Projeyi%20Ba%C5%9Flatma%20Projeye%20Ba%C5%9Far%C4%B1yla%20Ad%C4%B1m%20Atma.png?raw=true" alt="unity" width="240" height="160"/>
+  <br/>
 <img src="https://raw.githubusercontent.com/erhangocen/erhangocen/main/PYTHON.png" alt="unity" width="240" height="160"/>
 
 <img src="https://github.com/erhangocen/erhangocen/blob/main/JAVASCR%C4%B0PT.png?raw=true" alt="unity" width="240" height="160"/>
 
   <img src="https://github.com/erhangocen/erhangocen/blob/main/CSS.png?raw=true" alt="unity" width="240" height="160"/>
   
-  <img src="https://github.com/erhangocen/erhangocen/blob/main/Proje%20Y%C3%B6netimi%20Temelleri.png?raw=true" alt="unity" width="240" height="160"/>
-  
-  <img src="https://github.com/erhangocen/erhangocen/blob/main/Projeyi%20Ba%C5%9Flatma%20Projeye%20Ba%C5%9Far%C4%B1yla%20Ad%C4%B1m%20Atma.png?raw=true" alt="unity" width="240" height="160"/>
+
   
 </p>
+ 
+
  
